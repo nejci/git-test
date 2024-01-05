@@ -1,2 +1,2 @@
 # git-test
-Odin test
+The Odin Project test repository
